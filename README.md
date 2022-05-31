@@ -27,7 +27,7 @@ gantt
 		
         section 預處理
             Rlated Work  :active,bb, 05-02, 42d
-            Collection & extend datasets  : crit ,b2, 05-09, 56d
+            Collect & extend datasets  : crit ,b2, 05-09, 56d
     
 		section 主要工作
             Data preprocessing: active, dp, 06-13  , 35d
@@ -38,7 +38,7 @@ gantt
             Discussion & conlcusion: dc, 08-08, 72d
 			
         section 發表工作
-            Writing & Modify report: wm, 09-05, 49d
+            Writing & Modifying report: wm, 09-05, 49d
             Presentation: milestone, after wm, 7d
 ```
 👉[開啟HackMD雙欄模式檢視原始語法](https://hackmd.io/T-UpzCz-QV-AMSDCmXIVUw?both)  
@@ -63,7 +63,7 @@ gantt
 		
         section 預處理
             Rlated Work  :active,bb, 05-02, 42d
-            Collection & extend datasets  : crit ,b2, 05-09, 56d
+            Collect & extend datasets  : crit ,b2, 05-09, 56d
     
 		section 主要工作
             Data preprocessing: active, dp, 06-13  , 35d
@@ -74,13 +74,13 @@ gantt
             Discussion & conlcusion: dc, 08-08, 72d
 			
         section 發表工作
-            Writing & Modify report: wm, 09-05, 49d
+            Writing & Modifying report: wm, 09-05, 49d
             Presentation: milestone, after wm, 7d
 ```
 ````
 ### 👍好站推薦
 - [如何繪製甘特圖](https://hackmd.io/@hackmd-marketing/draw-gantt?utm_source=twitter&utm_medium=post-link)
-- [Mermaid.js document](https://mermaid-js.github.io/mermaid/#/gantt?id=syntax)
+- [Mermaid.js document](https://mermaid-js.github.io/mermaid/#/gantt)
 
 ## Pie Chart
 👉[開啟HackMD雙欄模式檢視原始語法](https://hackmd.io/T-UpzCz-QV-AMSDCmXIVUw?both)
@@ -224,4 +224,7 @@ classDiagram
   }
 ```
 ````
+
+
+###### tags: `zfcsc`
 
